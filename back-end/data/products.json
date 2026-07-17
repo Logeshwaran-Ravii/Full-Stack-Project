@@ -1,0 +1,80 @@
+[
+  {
+    "image": "wireless-headphones.jpg",
+    "name": "Sony WH-CH520 Wireless Headphones",
+    "description": "Lightweight Bluetooth headphones with up to 50 hours of battery life and crystal-clear audio.",
+    "price": 4499,
+    "rating": {
+      "stars": 4.6,
+      "reviews": 1248
+    },
+    "category": "Electronics",
+    "seller": "Sony India",
+    "stock": 35
+  },
+  {
+    "image": "smart-watch.jpg",
+    "name": "FireBolt Vision Smart Watch",
+    "description": "1.85-inch AMOLED display with Bluetooth calling, heart rate monitoring, and multiple sports modes.",
+    "price": 2999,
+    "rating": {
+      "stars": 4.4,
+      "reviews": 892
+    },
+    "category": "Wearables",
+    "seller": "FireBolt Official",
+    "stock": 52
+  },
+  {
+    "image": "gaming-mouse.jpg",
+    "name": "Logitech G102 Gaming Mouse",
+    "description": "RGB gaming mouse with 8000 DPI optical sensor and programmable buttons.",
+    "price": 1499,
+    "rating": {
+      "stars": 4.7,
+      "reviews": 2315
+    },
+    "category": "Computer Accessories",
+    "seller": "Logitech Store",
+    "stock": 18
+  },
+  {
+    "image": "mechanical-keyboard.jpg",
+    "name": "Redragon K552 Mechanical Keyboard",
+    "description": "Compact mechanical gaming keyboard with red LED backlight and durable blue switches.",
+    "price": 3499,
+    "rating": {
+      "stars": 4.5,
+      "reviews": 1742
+    },
+    "category": "Computer Accessories",
+    "seller": "Redragon India",
+    "stock": 27
+  },
+  {
+    "image": "bluetooth-speaker.jpg",
+    "name": "JBL Flip Essential Portable Speaker",
+    "description": "Water-resistant Bluetooth speaker delivering powerful bass and up to 10 hours of playback.",
+    "price": 5999,
+    "rating": {
+      "stars": 4.8,
+      "reviews": 3104
+    },
+    "category": "Audio",
+    "seller": "JBL Official",
+    "stock": 21
+  },
+  {
+    "image": "power-bank.jpg",
+    "name": "Mi 20000mAh Fast Charging Power Bank",
+    "description": "High-capacity power bank supporting 18W fast charging with dual USB output ports.",
+    "price": 1999,
+    "rating": {
+      "stars": 4.3,
+      "reviews": 967
+    },
+    "category": "Mobile Accessories",
+    "seller": "Xiaomi India",
+    "stock": 64
+  }
+]
